@@ -7,4 +7,7 @@ This project is part of [The Odin Project ](https://www.theodinproject.com/) Fou
 - Structuring a basic multi-page website (homepage + individual recipe pages)
 - Using Git for version control (commits, branches)
 - Hosting a project on GitHub
-- Deploying a static site with GitHub Pages
+- Deploying a static site with GitHub
+
+## Image Credits
+All recipe images sourced from [Unsplash](https://unsplash.com), free to use under the Unsplash License.
